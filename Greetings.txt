@@ -1,0 +1,15 @@
+####python
+name = input("What's your name? ")
+print("What's up " + name + "!")
+####c++
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+  char name
+  cout << "What's your name?";
+  cin >> name;
+  cout << "What's up, " << name
+  return 0;
+}
